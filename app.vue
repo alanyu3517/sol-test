@@ -1,10 +1,7 @@
 <template>
   <div class="m-0 h-100vh w-100vw">
-    <Header />
-    <slot />
+    <NuxtLayout>
+      <NuxtPage />
+    </NuxtLayout>
   </div>
 </template>
-
-<style lang="css">
-
-</style>
