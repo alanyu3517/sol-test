@@ -1,8 +1,5 @@
-<template>
-  <div>
-    test
-  </div>
-</template>
+<script lang="ts" setup></script>
 
-<script setup lang="ts">
-</script>
+<template>
+  <div>index</div>
+</template>
